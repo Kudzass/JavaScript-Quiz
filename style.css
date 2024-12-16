@@ -30,3 +30,18 @@ main {
 #choices li {
   margin: 10px 0;
 }
+button {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+#progress {
+  margin-top: 10px;
+}
